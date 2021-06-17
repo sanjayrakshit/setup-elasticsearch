@@ -5,6 +5,7 @@ After cloning, go inside the **macOS/**, there  and you'll need to change the pe
 ```sh
 chomod 700 *.sh
 ```
+Also make a directory called **logs/** inside **macOS/**. Here we will store the run logs and error logs
 After this you'll need to run the following commands to download open-jdk11, elasticsearch & Kibana:
 ```sh
 ./download-jdk.sh
