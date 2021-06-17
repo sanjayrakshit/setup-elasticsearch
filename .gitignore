@@ -1,0 +1,8 @@
+
+
+logs/
+.DS_Store/
+
+elasticsearch-7.13.1/
+kibana-7.13.1-darwin-x86_64/
+
